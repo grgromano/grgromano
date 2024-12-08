@@ -1,7 +1,15 @@
 ## Hi there 👋
 
-🎓 **MSc in Mathematical Engineering, Statistical Learning** at Politecnico di Milano (110/110 cum laude).  
-Passionate about Artificial Intelligence and Statistical Learning, I aim to contribute to transformative technologies through innovative solutions and research.
+Nice to meet you! I'm Giorgio Romano, Mathematical Engineer from Politecnico di Milano. I am passionate about the world of Artificial Intelligence and, more specifically, about Statistical Learning. I am truly fascinated by the disruptive potential of this technology and eager to contribute to the transformation that it will bring to our everyday lives.
+
+### 🎓 Education
+- Master of Science: Mathematical Engineering, Statistical Learning @ Politecnico di Milano
+- Erasmus+ Program @ Aalto University, Department of Computer Science, Helsinki
+- Bachelor of Science: Mathematical Engineering @ Politecnico di Milano
+
+### 🛠️ Some interesting projects
+- 
+
 
 ---
 
