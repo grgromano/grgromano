@@ -4,7 +4,7 @@ Nice to meet you! I'm Giorgio Romano, Mathematical Engineer from Politecnico di 
 
 ## 🎓 Education
 - Master of Science: Mathematical Engineering, Statistical Learning @ Politecnico di Milano
-- Erasmus+ Program @ Aalto University, Department of Computer Science, Helsinki
+- Erasmus+ Program @ Aalto University, Helsinki - Department of Computer Science
 - Bachelor of Science: Mathematical Engineering @ Politecnico di Milano
 
 ## 🛠️ Some interesting projects
