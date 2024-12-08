@@ -8,7 +8,7 @@ Nice to meet you! I'm Giorgio Romano, Mathematical Engineer from Politecnico di 
 - Bachelor of Science: Mathematical Engineering @ Politecnico di Milano
 
 ## 🛠️ Some interesting projects
-- [Model Discovery integrating Symbolic Regression into Sparse Identification of Nonlinear Dynamics](https://github.com/grgromano/MD-Loop): A novel Model Discovery approach, able to mitigate existing methods’ limitations – namely: computational efficiency, flexibility and level of automation – while extending Model Discovery scope in the contexts of Online Model Discovery and Reduced Order Modeling
+- [Model Discovery integrating Symbolic Regression into Sparse Identification of Nonlinear Dynamics](https://github.com/grgromano/MD-Loop): a novel Model Discovery approach, able to mitigate existing methods’ limitations – namely: computational efficiency, flexibility and level of automation – while extending Model Discovery scope in the contexts of Online Model Discovery and Reduced Order Modeling.
 - [Plant's Health Status Classifier](https://github.com/grgromano/image-classifier): exploited Deep Neural Networks to perform Image Classification, leveraging pre-trained Convolutional Neural Networks through transfer learning. 
 - [Time Series Forecasting Project](https://github.com/grgromano/timeseries-forecasting): exploited Recursive Neural Networks to perform Time Series Forecasting, leveraging LSTM, GRU and Attention Mechanism architectures.
 - [Online Learning for E-commerce Pricing and Advertising Optimization](https://github.com/grgromano/Online-PricingAdvertising): applied multi-armed bandit algorithms to optimize pricing and advertising strategies in dynamic environments.
